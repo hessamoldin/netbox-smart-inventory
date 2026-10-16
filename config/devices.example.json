@@ -1,0 +1,8 @@
+{
+  "devices": [
+    {
+      "name": "example-switch",
+      "ip": "192.0.2.10"
+    }
+  ]
+}

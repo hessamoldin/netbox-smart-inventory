@@ -1,0 +1,2 @@
+pysnmp==7.1.30
+requests==2.34.2

@@ -1,0 +1,32 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+config/.env
+config/.env.*
+!config/.env.example
+config/devices.json
+config/*backup*
+config/*secret*
+config/*credential*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.bak
+*.backup
+*.swp
+*~
+
+# Local development
+.vscode/
+.idea/
+.DS_Store
